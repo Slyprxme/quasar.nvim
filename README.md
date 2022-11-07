@@ -1,9 +1,9 @@
 # quasar.nvim
 
-A dark and vivid Neovim theme written in Lua. Supports Treesitter and LSP.
+A dark and vivid Neovim theme written in Lua with support for Treesitter,LSP and more.
 
 ## Screenshot
-
+![image](https://github.com/slyprxme/quasar.nvim/blob/main/static/ss.png?raw=true)
 
 ## Requirements 
 
