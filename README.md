@@ -29,13 +29,13 @@ use 'slyprxme/quasar.nvim'
 
 Enable the colorscheme 
 
-```
 Vim Script
+```
 colorscheme quasar
 ```
 
-```
 Lua
+```
 vim.cmd[[colorscheme quasar]]
 ```
 
