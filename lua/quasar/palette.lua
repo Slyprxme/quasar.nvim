@@ -17,6 +17,7 @@ local colors = {
   purple = "#c74ded",
   magenta = "#ff00aa",
   darkcyan = "#b4f9f8",
+  altwin = "#3b4261",
   cursor_fg = "#ffffff",
   cursor_bg = "#AbAbAf",
   sign_add = "#587c0c",
