@@ -363,8 +363,8 @@ theme.set_highlights = function()
   hl(0, "IndentBlanklineChar", { fg = c.dark_gray, bg = 'NONE' })
 
   -- Dashboard
-  hl(0, "DashboardHeader", { fg = c.blue, bg = 'NONE' })
-  hl(0, "DashboardCenter", { fg = c.purple, bg = 'NONE' })
+  hl(0, "DashboardHeader", { fg = c.red, bg = 'NONE' })
+  hl(0, "DashboardCenter", { fg = c.darkcyan, bg = 'NONE' })
   hl(0, "DashboardFooter", { fg = c.cyan, bg = 'NONE' })
 
   -- DiffView

@@ -1,14 +1,14 @@
 [information]
 name = "quasar"
 background = "dark"
-author = 'SlyPrxme <sly.prxme@gmail.com>'
+author = 'slyPrxme <sly.prxme@gmail.com>'
 
 [palette]
 fg = '#D5CED9'
-bg = '#181b21'
+bg = '#1A1B26'
 
 alt_fg = '#D5CED9'
-alt_bg = '#181b21'
+alt_bg = '#1A1B26'
 
 line = '#282C34'
 dark_gray = '#3e4451'
@@ -25,7 +25,7 @@ yellow = '#FFE66D'
 purple = '#c74ded'
 magenta = '#ff00aa'
 darkcyan = '#b4f9f8'
-altwin = '#131519'
+altwin = '#1A1B26'
 
 cursor_fg = '#ffffff'
 cursor_bg = '#AbAbAf'
@@ -432,7 +432,7 @@ IndentBlanklineChar = 'dark_gray'
 
 [Dashboard]
 DashboardHeader = 'blue'
-DashboardCenter = 'purple'
+DashboardCenter = 'darkcyan'
 DashboardFooter = 'cyan'
 
 [DiffView]
